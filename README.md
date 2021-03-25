@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @RuneTheader
 - 👀 I’m interested in geography, costal engineering, surfing & olympic weightlifting
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Runetheander@gmail.com
 
 <!---
