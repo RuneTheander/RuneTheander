@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RuneTheader
-- 👀 I’m interested in geography, costal engineering, surfing & olympic weightlifting
+- 👀 I’m interested in geography, coastal engineering, surfing & olympic weightlifting
 - 📫 How to reach me Runetheander@gmail.com
 
 <!---
