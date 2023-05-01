@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RuneTheander
-- 👀 I’m interested in geography, coastal engineering, surfing & olympic weightlifting
+- 👋 Hi, I’m @RuneTheander Working with GIS in The Danish Agency for Data Supply and Infrastructure
+- 👀 I’m interested in GIS, coastal engineering, surfing & olympic weightlifting
 - 📫 How to reach me Runetheander@gmail.com
 
 <!---
