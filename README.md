@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @RuneTheander Working with GIS in The Danish Agency for Data Supply and Infrastructure
-- 👀 I’m interested in GIS, Coastal Engineering, Surfing, Olympic Weightlifting & Vintage Clothing
+- 👋 Hi, I’m @RuneTheander Working with GIS in The Danish Agency for Data Supply and Infrastructure.
+- 👀 Mainly using C# and Python to solve problems.
 - 📫 How to reach me Runetheander@gmail.com
 
 <!---
